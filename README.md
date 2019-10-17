@@ -8,4 +8,4 @@ Auto-dimmer is an automated device which reduces the intensity of a vehicle's he
 - C#
 
 ## Download Game
-Please refer to the <a src="https://github.com/Pratyush-Ranjan/Auto-dimmer/releases">release</a> section of this repository to download desktop and android version of the game.
+Please refer to the [releases](https://github.com/Pratyush-Ranjan/Auto-dimmer/releases) section of this repository to download desktop and android version of the game.
